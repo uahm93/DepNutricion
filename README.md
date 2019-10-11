@@ -1,6 +1,7 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [SB Admin 2](http://startbootstrap.com/template-overviews/sb-admin-2/)
+# [Proyecto departamento de nutrición IMSS] - [Proyecto realizado como proyecto de la materia Ingenieria de software (2015]
 
-[SB Admin 2](http://startbootstrap.com/template-overviews/sb-admin-2/) is an open source, admin dashboard template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
+[Descripción general del proyecto] A partir de la informacion clinica del paciente la cual se ingresa por los caputristas se genera un pdf el cual contiene una dieta especifica para el cliente tomando en cuenta factores como IMC, patalogicos, enfermedades croncias y estilo de vida. De la misma manera se genera un historico del paciente en el cual se pueden observar mejoras.
+El sistema tambien contempla multiples usuarios
 
 ## Getting Started
 
